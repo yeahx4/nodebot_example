@@ -4,7 +4,10 @@
   "description": "This is Node.js Discord Bot Example",
   "main": "index.js",
   "scripts": {
-    "run": "node index.js"
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "discord.js": "^11.4.2"
   },
   "repository": {
     "type": "git",
