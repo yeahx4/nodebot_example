@@ -13,5 +13,5 @@ npm install
 ```
 - Start the bot with the command below.
 ```
-npm run
+npm start
 ```
