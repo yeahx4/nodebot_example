@@ -1,0 +1,25 @@
+{
+  "name": "nodebot_example",
+  "version": "1.0.0",
+  "description": "This is Node.js Discord Bot Example",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khjkr/nodebot_example.git"
+  },
+  "keywords": [
+    "node.js",
+    "discord",
+    "bot",
+    "example"
+  ],
+  "author": "khjkr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khjkr/nodebot_example/issues"
+  },
+  "homepage": "https://github.com/khjkr/nodebot_example#readme"
+}
